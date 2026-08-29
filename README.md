@@ -1,17 +1,13 @@
-# Meredith
+# meredith
 
-I build apps with AI and ship them.
+i make apps with AI and put them on github. trying to get hired to do this for real (prompt engineering, i guess).
 
-## The work to look at
+**[expansive mind](https://github.com/Meredithnory/Expansive_Mind)** · [live](https://expansive-mind.vercel.app)
 
-**[Expansive Mind](https://github.com/Meredithnory/Expansive_Mind)** · [live](https://expansive-mind.vercel.app)
+search pubmed papers and chat with an assistant that has to stick to the paper you picked. still have more i want to do on this one.
 
-Search NIH PubMed papers and chat with an assistant that can only answer from the paper you picked.
+**[threaddrop](https://github.com/Meredithnory/threaddrop)** · [live](https://my-threaddrop-meredith-ss-projects.vercel.app)
 
-**[ThreadDrop](https://github.com/Meredithnory/threaddrop)** · [live](https://my-threaddrop-meredith-ss-projects.vercel.app)
+outfits from actual sale clothes. deals feed is up. the AI styling part is next.
 
-An AI stylist that builds outfits from real sale items. The deals feed is live. Photo upload and styling are next.
-
-## Right now
-
-Shipping more AI apps in public, toward prompt engineering work. The rest of this account is coursework. These two are the portfolio.
+everything else here is classwork. these two are the ones that count.
