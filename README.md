@@ -1,16 +1,17 @@
-## Hi there 👋
+# Meredith
 
-<!--
-**Meredithnory/Meredithnory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build apps with AI and ship them.
 
-Here are some ideas to get you started:
+## The work to look at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Expansive Mind](https://github.com/Meredithnory/Expansive_Mind)** · [live](https://expansive-mind.vercel.app)
+
+Search NIH PubMed papers and chat with an assistant that can only answer from the paper you picked.
+
+**[ThreadDrop](https://github.com/Meredithnory/threaddrop)** · [live](https://my-threaddrop-meredith-ss-projects.vercel.app)
+
+An AI stylist that builds outfits from real sale items. The deals feed is live. Photo upload and styling are next.
+
+## Right now
+
+Shipping more AI apps in public, toward prompt engineering work. The rest of this account is coursework. These two are the portfolio.
