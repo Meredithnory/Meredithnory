@@ -1,13 +1,15 @@
 # Hi, I'm Meredith
 
-I like making apps with AI and sharing them here. I'm working toward a software engineering job, especially places that mix software with science.
+I build full stack apps where science and AI meet. Biology background, software engineering now. Looking for SWE roles in the Bay Area.
 
 **[Expansive Mind](https://github.com/Meredithnory/Expansive_Mind)** · [live](https://expansive-mind.vercel.app)
 
-A place to search PubMed papers and chat with an assistant that stays with the paper you picked. I still have more I want to add to this one, and I'd love for you to try it.
+Search PubMed papers and chat with an assistant that stays with the paper you picked. Built to make research tools feel usable.
 
 **[ThreadDrop](https://github.com/Meredithnory/threaddrop)**
 
-Helps you find outfits from real sale items. Fitting room / try-on is in there now.
+Helps you find outfits from real sale items, with a fitting room / try-on flow.
 
-Thanks for stopping by. More soon.
+I also build with Grok Bots and other LLM tools when a product needs AI that actually helps.
+
+Thanks for stopping by.
