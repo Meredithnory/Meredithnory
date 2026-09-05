@@ -4,7 +4,7 @@ I build full stack apps where science and AI meet. Biology background, software 
 
 **[Expansive Mind](https://github.com/Meredithnory/Expansive_Mind)** · [live](https://expansive-mind.vercel.app)
 
-Search PubMed papers and chat with an assistant that stays with the paper you picked. Built to make research tools feel usable.
+Search papers across Springer, NIH PMC, and Scholar, run discovery across sources, and chat with an assistant that stays with the paper you picked.
 
 **[ThreadDrop](https://github.com/Meredithnory/threaddrop)**
 
